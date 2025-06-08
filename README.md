@@ -11,6 +11,4 @@ They have a strict routine, which follows in order:
 
 If they manage not to get tired and fall asleep while doing their chores, they have successfully completed their chores. 
 
-Use nodejs to see if Kate finishes the chores or falls asleep trying.  
-
 Assignment created by Dan Collins at Code Kentucky
