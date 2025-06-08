@@ -13,6 +13,9 @@ They have a strict routine, which follows in order:
 If they manage not to get tired and fall asleep while doing their chores, they have successfully completed their chores. 
 
 callbackVersion.js uses call backs to complete tasks
+
 promiseVersion.js uses promises to complete tasks
+
+asyncAwaitVersion.js uses async and await
 
 Assignment created by Dan Collins at Code Kentucky
